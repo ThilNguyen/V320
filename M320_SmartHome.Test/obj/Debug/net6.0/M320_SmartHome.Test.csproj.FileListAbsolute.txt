@@ -1,0 +1,6 @@
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome.Test\obj\Debug\net6.0\M320_SmartHome.Test.csproj.AssemblyReference.cache
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome.Test\obj\Debug\net6.0\M320_SmartHome.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome.Test\obj\Debug\net6.0\M320_SmartHome.Test.AssemblyInfoInputs.cache
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome.Test\obj\Debug\net6.0\M320_SmartHome.Test.AssemblyInfo.cs
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome.Test\obj\Debug\net6.0\M320_SmartHome.Test.csproj.CoreCompileInputs.cache

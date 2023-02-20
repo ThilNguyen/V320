@@ -1,0 +1,15 @@
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.exe
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.deps.json
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.runtimeconfig.json
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.dll
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.pdb
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.csproj.AssemblyReference.cache
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.AssemblyInfoInputs.cache
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.AssemblyInfo.cs
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.csproj.CoreCompileInputs.cache
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.dll
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\refint\M320_SmartHome.dll
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.pdb
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.genruntimeconfig.cache
+C:\V320\M320_SmartHome_OhneTests\M320_SmartHome\M320_SmartHome\obj\Debug\net6.0\ref\M320_SmartHome.dll
